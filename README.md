@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafasaif&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafasaif&count_private=true&show_icons=true&theme=dracula)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mustafasaif&theme=dracula&date_format=j%20M%5B%20Y%5D&ring=DDDDDD&fire=DD2727)](https://git.io/streak-stats)
