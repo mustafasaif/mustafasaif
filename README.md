@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mustafasaif&theme=dracula&date_format=j%20M%5B%20Y%5D&ring=DDDDDD&fire=DD2727)](https://git.io/streak-stats)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafasaif&theme=dracula)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafasaif&theme=dracula&layout=compact)
