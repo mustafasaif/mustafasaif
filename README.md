@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mustafasaif&theme=dracula&date_format=j%20M%5B%20Y%5D&ring=DDDDDD&fire=DD2727)](https://git.io/streak-stats)
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mustafasaif)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafasaif&theme=dracula&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mustafasaif&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
