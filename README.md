@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on refactoring my old simple CRUD application.
 - 🌱 I’m currently learning how to implement jest test for endpoints.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafasaif&count_private=true&show_icons=true&theme=dracula)
